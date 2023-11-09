@@ -1,3 +1,3 @@
 # calculator V-2
 
-afafaf
+( ), %, . => 안됨 ㅎㅎ
