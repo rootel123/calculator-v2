@@ -1,3 +1,8 @@
 @tailwind base;
 @tailwind components;
 @tailwind utilities;
+@layer components {
+  .btn-style {
+    @apply w-16 h-16 bg-stone-700 active:bg-stone-500 text-white text-xl rounded-full;
+  }
+}
